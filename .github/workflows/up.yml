@@ -1,0 +1,44 @@
+name: Auto Update 1
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install unzip and Python dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip
+          pip install requests
+
+      - name: Unzip all ZIP files into folders named after the ZIP files
+        run: |
+          mkdir -p callection
+          for zipfile in *.zip; do
+            if [ -f "$zipfile" ]; then
+              foldername=$(basename "$zipfile" .zip)
+              unzip -o "$zipfile" -d "callection/$foldername"
+            fi
+          done
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto update: extracted zip files into separate folders in callection" || echo "No changes to commit"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+
+permissions:
+  contents: write
