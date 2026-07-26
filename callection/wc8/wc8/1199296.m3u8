@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://weaseltv.live:80/play/live.php?mac=A0:BB:3E:BC:25:43&stream=1199296&extension=m3u8
