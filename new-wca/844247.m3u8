@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:B6:C3:6B&stream=844247&extension=m3u8
