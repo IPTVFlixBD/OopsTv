@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://iptvrss.com/play/live.php?mac=00:1A:79:F7:98:BE&stream=646880&extension=m3u8
