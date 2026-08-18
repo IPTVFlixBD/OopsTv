@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://3tv.pro/play/live.php?mac=00:1A:79:13:6F:31&stream=155819&extension=m3u8
