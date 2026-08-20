@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://chaotic-streams.cc/play/live.php?mac=00:1A:79:02:3F:2B&stream=2112652&extension=m3u8
