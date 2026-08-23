@@ -1,0 +1,353 @@
+#EXTM3U
+# ==========================================
+# EXPIRY: October 8, 2026, 12:00 am
+# TYPE: Single Channel Conversion
+# GENERATED: 2026-08-23 12:29:15
+# ==========================================
+
+
+# ===== UK| SPORTS =====
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### SKY SPORTS HD #####
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/230682.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png", UK| SKY SPORTS + HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83455.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png", UK|SKY SPORTS ACTION HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83456.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png", UK| SKY SPORTS CRICKET HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83454.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png", UK| SKY SPORTS F1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83453.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png", UK| SKY SPORTS F1 UHD/4K
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1641637.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png", UK| SKY SPORTS FOOTBALL HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83452.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png", UK| SKY SPORTS GOLF HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83451.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png", UK| SKY SPORTS MAIN EVENT UHD/4K
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1641636.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png", UK| SKY SPORTS MAIN EVENTS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83450.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png", UK| SKY SPORTS MAIN EVENTS HD(BK)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1448189.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png", UK| SKY SPORTS MIX HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83449.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png", UK| SKY SPORTS NEWS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83448.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPL.png", UK| SKY SPORTS PL HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83447.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png", UK| SKY SPORTS RACING HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/83446.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png", UK| SKY SPORTS TENNIS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1454231.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79486.png", UK| TNT SPORTS 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79486.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png", UK| TNT SPORTS 1 HD ◉
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1261564.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79485.png", UK| TNT SPORTS 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79485.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79484.png", UK| TNT SPORTS 3 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79484.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png", UK| TNT SPORTS 4 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1002857.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png", UK| TNT SPORTS 5 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1004549.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BTBOXOFFICE.png", UK| BT BOX OFFICE HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1019934.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png", UK| DAZN 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1221178.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANCHESTERUNITED.png", UK| MANCHESTER UNITED HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/725954.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CHELSEA.png", UK| CHELSEA TV HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/45327.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC TV FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/910647.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png", UK| LFC TV
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/45268.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png", UK| MUTV FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/45324.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT1.png", UK| EUROSPORT 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/547746.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT2.png", UK| EUROSPORT 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/547747.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTLALIGA.png", UK| PREMIER SPORT LALIGA TV HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/163610.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png", UK| PREMIER SPORTS 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/45235.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/163608.png", UK| PREMIER SPORT 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/163608.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### SKY SPORTS FHD #####
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/230681.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30500.png", UK| SKY SPORTS + FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30500.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30501.png", UK| SKY SPORTS ACTION FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30501.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30502.png", UK| SKY SPORTS CRICKET FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30502.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30499.png", UK| SKY SPORTS F1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30499.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30498.png", UK| SKY SPORTS FOOTBALL FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30498.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30497.png", UK| SKY SPORTS GOLF FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30497.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30496.png", UK| SKY SPORTS MAIN EVENT FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30496.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30495.png", UK| SKY SPORTS MIX FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30495.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30494.png", UK| SKY SPORTS NEWS FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30494.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30493.png", UK| SKY SPORTS PL FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30493.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/77373.png", UK| SKY SPORTS RACING FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/77373.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png", UK| SKY SPORTS TENNIS FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1454232.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTULTIMATE.png", UK| TNT ULTIMATE 4K+ [LIVE-EVENT]
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1379047.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BTBOXOFFICE.png", UK| TNT BOX OFFICE FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1019933.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30564.png", UK| TNT SPORTS ESPN FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30564.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30567.png", UK| TNT SPORTS 1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30567.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30566.png", UK| TNT SPORTS 2 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30566.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30565.png", UK| TNT SPORTS 3 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30565.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png", UK| TNT SPORTS 4 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1019935.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png", UK| TNT SPORTS 5 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1004548.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png", ##### SKY SPORTS SD #####
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/230683.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79481.png", UK| SKY SPORTS +
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79481.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79482.png", UK| SKY SPORTS ACTION
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79482.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79480.png", UK| SKY SPORTS CRICKET
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79480.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79479.png", UK| SKY SPORTS F1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79479.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79478.png", UK| SKY SPORTS FOOTBALL
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79478.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79477.png", UK| SKY SPORTS GOLF
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79477.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79476.png", UK| SKY SPORTS MAIN EVENT
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79476.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79475.png", UK| SKY SPORTS MIX
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79475.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79474.png", UK| SKY SPORTS NEWS
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79474.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79473.png", UK| SKY SPORTS PREMIER LEAGUE FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79473.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/79472.png", UK| SKY SPORTS RACING
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/79472.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png", UK| TNT SPORTS 1 SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1047260.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png", UK| TNT SPORTS 2 SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1047261.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png", UK| TNT SPORTS 3 SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1047262.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png", UK| TNT SPORTS 4 SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1047263.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png", UK| TNT SPORTS 5
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1004550.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30541.png", UK| EUROSPORT 1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30541.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30540.png", UK| EUROSPORT 2 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30540.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png", UK| VIAPLAY XTRA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1014260.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/163611.png", UK| PREMIER SPORT LALIGA TV FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/163611.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/163607.png", UK| PREMIER SPORT 1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/163607.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/45251.png", UK| PREMIER SPORTS 2 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/45251.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://103.176.90.92/images/30523.png", UK| RACING UK FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/30523.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png", UK| RACING UK ◉
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1069214.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png", UK| PDC DARTS TV 2 (Event Only)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1014239.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png", UK| PDC DARTS TV 1 (Event Only)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1014240.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EDGESPORT.png", UK| EDGE SPORT FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1014266.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UFC.png", UK| UFC TV (Events2)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/1014267.m3u8
+#EXTINF:-1 group-title="UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UFC.png", UK| UFC HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/825538.m3u8
+
+# ===== DE| SPORTS =====
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="", ##### DE SPORTS #####
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/490203.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411389.png", DE| DAZN BAR 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411389.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://picons.cmshulk.com/picons/daznppv.png", DE| DAZN BAR 1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411552.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411550.png", DE| DAZN BAR 1 FHD*
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411550.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411388.png", DE| DAZN BAR 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411388.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411551.png", DE| DAZN BAR 2 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411551.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411549.png", DE| DAZN BAR 2 FHD*
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411549.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411603.png", DE| SKY SPORT 4K [LIVE-EVENT]
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411603.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411441.png", DE| SKY SPORT NEWS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411441.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411604.png", DE| SKY SPORT NEWS FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411604.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/523239.png", DE| SKY SPORTS F1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/523239.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/513132.png", DE| SKY SPORTS F1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/513132.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411413.png", DE| FC BAYERN TV HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411413.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411440.png", DE| SKY SPORT 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411440.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411602.png", DE| SKY SPORT 1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411602.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411601.png", DE| SKY SPORT 1 FHD*
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411601.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411439.png", DE| SKY SPORT 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411439.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411600.png", DE| SKY SPORT 2 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411600.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411599.png", DE| SKY SPORT 2 FHD*
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411599.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411438.png", DE| SKY SPORT 3 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411438.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411598.png", DE| SKY SPORT 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411598.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411597.png", DE| SKY SPORT 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411597.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411437.png", DE| SKY SPORT 4 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411437.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411596.png", DE| SKY SPORT 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411596.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411595.png", DE| SKY SPORT 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411595.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411436.png", DE| SKY SPORT 5 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411436.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411594.png", DE| SKY SPORT 5 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411594.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411593.png", DE| SKY SPORT 5 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411593.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411435.png", DE| SKY SPORT 6 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411435.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411592.png", DE| SKY SPORT 6 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411592.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411591.png", DE| SKY SPORT 6 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411591.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411434.png", DE| SKY SPORT 7 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411434.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411590.png", DE| SKY SPORT 7 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411590.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411589.png", DE| SKY SPORT 7 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411589.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411433.png", DE| SKY SPORT 8 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411433.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411588.png", DE| SKY SPORT 8 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411588.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411587.png", DE| SKY SPORT 8 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411587.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411432.png", DE| SKY SPORT 9 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411432.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411586.png", DE| SKY SPORT 9 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411586.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411585.png", DE| SKY SPORT 9 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411585.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411431.png", DE| SKY SPORT 10 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411431.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411584.png", DE| SKY SPORT 10 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411584.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411583.png", DE| SKY SPORT 10 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411583.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/578801.png", DE| SKY SPORT 12 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/578801.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/578800.png", DE| SKY SPORT 13 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/578800.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/578799.png", DE| SKY SPORT 14 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/578799.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411430.png", DE| SKY SPORT AUSTRIA 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411430.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411582.png", DE| SKY SPORT AUSTRIA 1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411582.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411581.png", DE| SKY SPORT AUSTRIA 1 FHD*
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411581.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411429.png", DE| SKY SPORT AUSTRIA 2 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411429.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411580.png", DE| SKY SPORT AUSTRIA 2 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411580.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411579.png", DE| SKY SPORT AUSTRIA 2 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411579.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411428.png", DE| SKY SPORT AUSTRIA 3 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411428.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411578.png", DE| SKY SPORT AUSTRIA 3 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411578.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411577.png", DE| SKY SPORT AUSTRIA 3 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411577.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411427.png", DE| SKY SPORT AUSTRIA 4 HD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411427.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411576.png", DE| SKY SPORT AUSTRIA 4 FHD (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411576.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411575.png", DE| SKY SPORT AUSTRIA 4 FHD* (NUR WÄHREND DER LIVE SPIELE)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411575.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/971771.png", DE|  SKY SPORT TOP EVENT FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/971771.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/977113.png", DE| SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/977113.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/732337.png", DE| SKY SPORT AUSTRIA 5 FHD (DURING GAMES ONLY)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/732337.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/977114.png", DE| SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/977114.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/732336.png", DE| SKY SPORT AUSTRIA 6 FHD (DURING GAMES ONLY)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/732336.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/977115.png", DE| SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/977115.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/732335.png", DE| SKY SPORT AUSTRIA 7 FHD (DURING GAMES ONLY)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/732335.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/971739.png", DE| SKY SPORT TENNIS FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/971739.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/971711.png", DE| SKY SPORT PREMIER LEAGUE FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/971711.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/971710.png", DE| SKY SPORT MIX FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/971710.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/971709.png", DE| SKY SPORT GOLF FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/971709.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411387.png", DE| EUROSPORT 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411387.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411547.png", DE| EUROSPORT 1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411547.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://picons.cmshulk.com/picons/411386.png", DE| EUROSPORT 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411386.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411545.png", DE| EUROSPORT 2 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411545.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411383.png", DE| EUROSPORT 2 XTRA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411383.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411543.png", DE| EUROSPORT 2XTRA FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411543.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411381.png", DE| SPORT1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411381.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411541.png", DE| SPORT1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411541.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411536.png", DE| SPORT1+ FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411536.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411539.png", DE| SPORTDIGITAL FUSSBALL FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411539.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411534.png", DE| SPORTDIGITAL FUSSBALL FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411534.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411537.png", DE| MOTORVISION TV FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411537.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411535.png", DE| ESPORTS1 FHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411535.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/411380.png", DE| AUTO MOTOR SPORT HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/411380.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://103.176.90.92/images/692608.png", DE| CLIPMYHORSE.TV HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/692608.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/logos/MSCOLF1.jpg", DE| MS GOLF 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/2019918.m3u8
+#EXTINF:-1 group-title="DE| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/logos/MSCOLF2.jpg", DE| MS GOLF 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/uk-spt/2019917.m3u8
