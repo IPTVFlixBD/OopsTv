@@ -1,0 +1,67 @@
+#EXTM3U
+# ==========================================
+# EXPIRY: October 5, 2026, 12:00 am
+# TYPE: Multiple Quality Conversion
+# GENERATED: 2026-08-25 16:29:22
+# ==========================================
+
+
+# ===== AR| BEIN SPORTS NX LOW =====
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836256.png", BEIN SPORTS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS HD.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836255.png", BEIN SPORTS NEWS HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS NEWS HD.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836257.png", NBA HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/NBA HD.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836244.png", BEIN SPORTS SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS SD.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836254.png", BEIN SPORTS LOW 1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 1.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836253.png", BEIN SPORTS LOW 2
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 2.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836252.png", BEIN SPORTS LOW 3
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 3.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836251.png", BEIN SPORTS LOW 4
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 4.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836250.png", BEIN SPORTS LOW 5
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 5.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836249.png", BEIN SPORTS LOW 6
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 6.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836248.png", BEIN SPORTS LOW 8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 8.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836247.png", BEIN SPORTS LOW 9
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 9.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX LOW" tvg-logo="http://51.158.145.100/picons/logos/bein/1836246.png", BEIN SPORTS LOW 7
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS LOW 7.m3u8
+
+# ===== AR| BEIN SPORTS NX 720 =====
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660414.png", BEIN SPORTS 1 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 1 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660412.png", BEIN SPORTS 2 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 2 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660410.png", BEIN SPORTS 3 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 3 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660408.png", BEIN SPORTS 4 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 4 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660406.png", BEIN SPORTS 5 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 5 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660404.png", BEIN SPORTS 6 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 6 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660402.png", BEIN SPORTS 7 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 7 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660400.png", BEIN SPORTS 8 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 8 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660398.png", BEIN SPORTS 9 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS 9 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660396.png", BEIN SPORTS ENGLISH 1 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS ENGLISH 1 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660394.png", BEIN SPORTS ENGLISH 2 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS ENGLISH 2 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660386.png", BEIN SPORTS  AFC 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS  AFC 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660383.png", BEIN SPORTS AFC 1 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS AFC 1 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660381.png", BEIN SPORTS AFC 2 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS AFC 2 720.m3u8
+#EXTINF:-1 group-title="AR| BEIN SPORTS NX 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660379.png", BEIN SPORTS AFC 3 720
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/beim/BEIN SPORTS AFC 3 720.m3u8
