@@ -1,0 +1,27 @@
+#EXTM3U
+# ==========================================
+# EXPIRY: September 6, 2026, 9:15 am
+# TYPE: Multiple Quality M3U8 Files
+# GENERATED: 2026-08-27 11:51:12
+# ==========================================
+
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png", ┃AR┃ BEIN SPORTS 1 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png", ┃AR┃ BEIN SPORTS 2 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-2.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png", ┃AR┃ BEIN SPORTS 3 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-3.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png", ┃AR┃ BEIN SPORTS 4 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-4.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png", ┃AR┃ BEIN SPORTS 5 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-5.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png", ┃AR┃ BEIN SPORTS 6 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-6.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png", ┃AR┃ BEIN SPORTS 7 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-7.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png", ┃AR┃ BEIN SPORTS 8 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-8.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png", ┃AR┃ BEIN SPORTS 9 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-9.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS GLOBAL.png", ┃AR┃ BEIN SPORTS GLOBAL SD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports.m3u8
