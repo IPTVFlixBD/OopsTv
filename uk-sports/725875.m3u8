@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://codesiptv.xyz/play/live.php?mac=00:1A:79:81:B9:43&stream=725875&extension=m3u8
