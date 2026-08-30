@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://mag.gofast-tv.me:80/play/live.php?mac=00:1A:79:84:75:57&stream=2069718&extension=m3u8
