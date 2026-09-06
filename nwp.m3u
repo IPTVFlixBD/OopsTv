@@ -1,10 +1,12 @@
 #EXTM3U
 # ==========================================
-# EXPIRY: September 6, 2026, 9:15 am
+# EXPIRY: November 7, 2026, 4:09 pm
 # TYPE: Single Channel Conversion
-# GENERATED: 2026-08-13 05:29:38
+# GENERATED: 2026-09-07 01:08:35
 # ==========================================
 
+
+# ===== WORLD CRICKET =====
 #EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ ASTRO CRICKET HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809382.m3u8
 #EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ STAR SPORTS 1 HD
@@ -65,6 +67,8 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809409.m
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809411.m3u8
 #EXTINF:-1 group-title="WORLD CRICKET" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png", ┃WC┃ CRICKET GOLD HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809410.m3u8
+
+# ===== ┃ASIA┃ SPORTS =====
 #EXTINF:-1 group-title="┃ASIA┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/DSports.png", ┃SPORTS┃ D SPORTS HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/373209.m3u8
 #EXTINF:-1 group-title="┃ASIA┃ SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star_Sports_First.png", ┃SPORTS┃ STAR SPORTS FIRST
